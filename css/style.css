@@ -15,7 +15,16 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+    background-color: : white;
+}
 
+.image1 {
+    position: relative;
+    padding: 5px;
+}
+
+.image2 {
+    position: relative;
 
 }
 
@@ -23,8 +32,6 @@ img {
     width: 300px;
     height: 200px;
     vertical-align: middle;
-    
-    padding: 1px;
 }
 
 .overlay {
