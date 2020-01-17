@@ -18,14 +18,9 @@
     background-color: : white;
 }
 
-.image1 {
+.image {
     position: relative;
-
-}
-
-.outerblock {
-    padding: 3px;
-    background-color: white;
+    border: 5px solid white;
 
 }
 
