@@ -20,11 +20,12 @@
 
 .image1 {
     position: relative;
-    padding: 5px;
+
 }
 
-.image2 {
-    position: relative;
+.outerblock {
+    padding: 3px;
+    background-color: white;
 
 }
 
